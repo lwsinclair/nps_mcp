@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/amysatterlee-nps-mcp-badge.png)](https://mseep.ai/app/amysatterlee-nps-mcp)
+
 ---
 
 # MCP Server for National Park Services Data
